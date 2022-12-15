@@ -17,8 +17,7 @@
   <h2 align="left">Skills &#9889;</h2>
   
   <h4 align="left">Programming Languages</h4>
-  <ul>
- <li> 
+  
 
 
 
