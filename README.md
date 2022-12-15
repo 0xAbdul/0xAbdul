@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3><br>
+<h2>Total Viewer &#128293;</h2><br><p align="left"> <img src="https://komarev.com/ghpvc/?username=0xabdul&label=Profile%20views&color=0e75b6&style=flat" alt="0xabdul" /> </p>
 
 <h2 align="left">About Me &#128587;</h2>
 <ul>
