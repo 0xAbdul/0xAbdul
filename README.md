@@ -13,6 +13,9 @@
   <li>Self-Taught Learner</li><br>
   <li>Programmer</li>
   </ul>
+  
+  <h2 align="left">Skills &#9889;</h2>
+
 
 
 <h2 align="left">Github Level &#128204;</h2>
