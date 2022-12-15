@@ -18,7 +18,10 @@
   
   <h4 align="left">Programming Languages</h4>
   <ul>
-  <li>
+  <li><a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg" alt="c++" width="40" height="40"/></li><br>
+    <li><a href="https://www.C++.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C++/C++-original.svg" alt="C++" width="40" height="40"/> 
 
 
 
