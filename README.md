@@ -5,8 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Front-End+Developer,;Computer+Science+Student,;Love+to+Learn..,;"></a>
 </p>
   
-<h2>Total Viewer &#128293;</h2><br><p align="left"> <img src="https://komarev.com/ghpvc/?username=0xabdul&label=Profile%20views&color=0e75b6&style=flat" alt="0xabdul" /> </p><br>
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="80%" height="500px" />
+<h2>Total Viewer &#128293;</h2><br><p align="left"> <img src="https://komarev.com/ghpvc/?username=0xabdul&label=Profile%20views&color=0e75b6&style=flat" alt="0xabdul" /> </p>
 
 
 <h2 align="left">About Me &#128587;</h2>
