@@ -1,4 +1,4 @@
-<img src="https://www.google.com/search?q=front%20end%20developer%20images&tbm=isch&hl=en-US&tbs=rimg:CTNoqganw0vaYcvvp4HSO2BE8AEBsgIIEAA6BAgBEAA&client=ubuntu&cs=1&hs=1Rs&sa=X&ved=0CBoQuIIBahcKEwjI1bGs3vv7AhUAAAAAHQAAAAAQGw&biw=1920&bih=954&dpr=1#imgrc=FZwt6UCoAIZ5WM"></img>
+
 
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 
