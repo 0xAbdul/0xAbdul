@@ -4,17 +4,15 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xabdul&label=Profile%20views&color=0e75b6&style=flat" alt="0xabdul" /> </p>
-<h2 align="left">About Me &#128071;</h2>
+<h2 align="left">About Me &#128293;</h2>
 <ul>
-<li>🌱 I’m currently learning Web Development</li>
-
-<li> 💬 Ask me about  Html,Css,Java,Python,C++,MySql,C,C#</li>
-  
-<li>📫 How to reach me abdullahmuhammad6005@gmail.com</li>
+<li>I’m currently learning Web Development</li><br>
+  <li>Self-Taught Learner</li><br>
+  <li>Programmer</li>
   </ul>
 
-<h2 align="left">Connect with me &#128071;</h2>
+
+<h2 align="left">Github Level &#128202;</h2>
 <p align="left">
 </p>
 
