@@ -41,7 +41,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xabdul&show_icons=true&locale=en" alt="0xabdul" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xabdul&" alt="0xabdul" /></p><br>
-  <h3 align="left">Credits : <a href="https://github.com/0xabdul">Abdullah..</h3><br>
+  <h3 align="left">Credits : <a href="https://github.com/0xabdul">Abdullah..</h3>
     <h3 align="left">Last Edited On:15/12/2022</h3>
     
 
