@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<h2 align="left">About Me &#128293;</h2>
+<h2 align="left">About Me &#128587;</h2>
 <ul>
 <li>I’m currently learning Web Development</li><br>
   <li>Self-Taught Learner</li><br>
@@ -12,7 +12,7 @@
   </ul>
 
 
-<h2 align="left">Github Level &#128202;</h2>
+<h2 align="left">Github Level &#9202;</h2>
 <p align="left">
 </p>
 
