@@ -8,7 +8,7 @@
 <h2>Total Viewer &#128293;</h2><br><p align="left"> <img src="https://komarev.com/ghpvc/?username=0xabdul&label=Profile%20views&color=0e75b6&style=flat" alt="0xabdul" /> </p>
 
 
-<h2 align="left">About Me &#128587;</h2>
+<h2 align="left">About Me &#128587;</h2>.
 <ul>
 <li>I’m Adullah passionate Front End Developer with strong focus on creating a user friendly web sites using HTML , CSS , JAVASCRIPT TALIWIND-CSS SASS creating a wonderfull web sites with using front end dev < / > </li><br>
   <li>i'm computer science student web development reseacher </li>
