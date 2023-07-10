@@ -15,9 +15,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   
   <h2 align="left">Skills &#9889;</h2><br>
-  <li>HTML-5</li>
-  <li>CSS-3</li>
-  <li>javasicript (ECMAScript 6)</li>
+  
   
   
 
