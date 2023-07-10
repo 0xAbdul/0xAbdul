@@ -11,6 +11,7 @@
 <h2 align="left">About Me &#128587;</h2>
 <ul>
 <li>I’m Adullah passionate Front End Developer with strong focus on creating a user friendly web sites using HTML , CSS , JAVASCRIPT TALIWIND-CSS SASS creating a wonderfull web sites with using front end dev < / > </li><br>
+  <li>i'm computer science student web development reseacher </li>
   </ul><br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   
