@@ -16,10 +16,7 @@
   
   <h2 align="left">Skills &#9889;</h2><br>
   <h4>Front End Development ~</h4><br>
-<li> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>  </li><br>
-<li>  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"><br></li><br>
-<li><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></li><br>
-<li><img src="https://img.shields.io/badge/Tailwind-css%20-%230db7ed.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></li><br>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/Tailwind-css%20-%230db7ed.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /><br>
 <h4>Tools Used ~ </h4><br>
 <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"></img><img src="https://img.shields.io/badge/Terminal-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></img><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></img><img src="https://img.shields.io/badge/Zorin%20Linux-1793D1?logo=zorin-linux&logoColor=fff&style=for-the-badge"></img>
 
