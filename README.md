@@ -21,6 +21,8 @@
 <li><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></li><br>
 <li><img src="https://img.shields.io/badge/Tailwind-css%20-%230db7ed.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></li><br>
 <h4>Tools Used ~ </h4><br>
+<img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"></img><img src="https://img.shields.io/badge/Terminal-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></img><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></img><img src="https://img.shields.io/badge/Zorin%20Linux-1793D1?logo=zorin-linux&logoColor=fff&style=for-the-badge"></img>
+
  
 
  
