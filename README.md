@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/0xabdul/0xAbdul/assets/119418867/814f52b8-bee8-49e8-a4cd-537647ba22d4" width="450"></img></h1><br>
+<h1 align="center"><img src="https://github.com/0xabdul/0xAbdul/assets/119418867/814f52b8-bee8-49e8-a4cd-537647ba22d4" width="500" boder-radius="1rem"></img></h1><br>
 <h1 align="center"><b>Hi , I'm Muhammad Abdullah</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">.
   <p align="center">
