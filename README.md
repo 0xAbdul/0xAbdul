@@ -33,11 +33,11 @@
 </p>
 
 
-<h1 align="center"<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdul&show_icons=true&locale=en&layout=compact" alt="0xabdul"  /></p><br>
+<h1 align="center"<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xabdul&theme=tokyonight" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xabdul&show_icons=true&locale=en" alt="0xabdul" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xabdul&show_icons=true&theme=tokyonight" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xabdul&" alt="0xabdul" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xabdul&theme=tokyonight"></p><br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
   <h3 align="left">Credits : <a href="https://github.com/0xabdul">Abdullah..</h3>
     <h3 align="left">Last Edited On:10/7/2022</h3>
